@@ -1,0 +1,8 @@
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\bin\Debug\toinen tehtävä.exe.config
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\bin\Debug\toinen tehtävä.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\bin\Debug\toinen tehtävä.pdb
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\obj\Debug\toinen tehtävä.csproj.AssemblyReference.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\obj\Debug\toinen tehtävä.csproj.SuggestedBindingRedirects.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\obj\Debug\toinen tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\obj\Debug\toinen tehtävä.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\toinen tehtävä\obj\Debug\toinen tehtävä.pdb
