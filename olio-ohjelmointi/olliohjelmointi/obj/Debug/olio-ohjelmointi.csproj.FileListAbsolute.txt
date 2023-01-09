@@ -1,0 +1,8 @@
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\bin\Debug\olliohjelmointi.exe.config
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\bin\Debug\olliohjelmointi.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\bin\Debug\olliohjelmointi.pdb
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\obj\Debug\olio-ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\obj\Debug\olio-ohjelmointi.csproj.SuggestedBindingRedirects.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\obj\Debug\olio-ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\obj\Debug\olliohjelmointi.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\olliohjelmointi\obj\Debug\olliohjelmointi.pdb
