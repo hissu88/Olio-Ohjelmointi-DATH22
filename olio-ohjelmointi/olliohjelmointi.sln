@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiuas", "kiuas\kiuas.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laskindd", "laskindd\laskindd.csproj", "{A74F13A1-E2AB-462D-A9A8-3C4A3E941F3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{376AD420-F098-4DC8-ABEB-7C7DFF78AF46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A74F13A1-E2AB-462D-A9A8-3C4A3E941F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A74F13A1-E2AB-462D-A9A8-3C4A3E941F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A74F13A1-E2AB-462D-A9A8-3C4A3E941F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376AD420-F098-4DC8-ABEB-7C7DFF78AF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376AD420-F098-4DC8-ABEB-7C7DFF78AF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376AD420-F098-4DC8-ABEB-7C7DFF78AF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376AD420-F098-4DC8-ABEB-7C7DFF78AF46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
