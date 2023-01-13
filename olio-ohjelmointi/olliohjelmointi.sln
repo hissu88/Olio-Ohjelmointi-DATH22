@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hissi", "hissi\hissi.csproj", "{18F58344-E4A7-4FDB-8F03-9D61DA0AF643}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava10", "Tehtava10\Tehtava10.csproj", "{7215361B-F345-4154-B7E2-5FA980EC9EC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{18F58344-E4A7-4FDB-8F03-9D61DA0AF643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F58344-E4A7-4FDB-8F03-9D61DA0AF643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F58344-E4A7-4FDB-8F03-9D61DA0AF643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7215361B-F345-4154-B7E2-5FA980EC9EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7215361B-F345-4154-B7E2-5FA980EC9EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7215361B-F345-4154-B7E2-5FA980EC9EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7215361B-F345-4154-B7E2-5FA980EC9EC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
