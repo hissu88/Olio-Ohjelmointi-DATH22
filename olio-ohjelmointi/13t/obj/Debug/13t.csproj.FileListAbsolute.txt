@@ -1,0 +1,8 @@
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\bin\Debug\13t.exe.config
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\bin\Debug\13t.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\bin\Debug\13t.pdb
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\obj\Debug\13t.csproj.AssemblyReference.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\obj\Debug\13t.csproj.SuggestedBindingRedirects.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\obj\Debug\13t.csproj.CoreCompileInputs.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\obj\Debug\13t.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\13t\obj\Debug\13t.pdb

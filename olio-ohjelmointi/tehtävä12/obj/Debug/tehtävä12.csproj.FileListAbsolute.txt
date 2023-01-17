@@ -1,0 +1,8 @@
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\obj\Debug\tehtävä12.csproj.AssemblyReference.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\obj\Debug\tehtävä12.csproj.SuggestedBindingRedirects.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\obj\Debug\tehtävä12.csproj.CoreCompileInputs.cache
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\bin\Debug\tehtävä12.exe.config
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\bin\Debug\tehtävä12.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\bin\Debug\tehtävä12.pdb
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\obj\Debug\tehtävä12.exe
+C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\tehtävä12\obj\Debug\tehtävä12.pdb
