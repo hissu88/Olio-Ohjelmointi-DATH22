@@ -5,16 +5,16 @@ winexe
 C#
 .cs
 C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\WpfApp1\obj\Debug\net6.0-windows\
-WpfApp1
+WpfApp1_b1tuoacm_wpftmp
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\hissu.hietanen\source\repos\hissu88\Olio-Ohjelmointi-DATH22\olio-ohjelmointi\WpfApp1\App.xaml
 11407045341
 
-3-1233169557
-194618410957
+5-765988728
+3881236821914
 MainWindow.xaml;
 
-False
+True
 

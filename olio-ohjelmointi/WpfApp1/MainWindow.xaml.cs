@@ -55,5 +55,10 @@ namespace WpfApp1
 
 
         }
+
+        private void txb_1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
